@@ -1,5 +1,5 @@
 token:
-  secret: my-secret-key-1234567890-from-github-repository-ecommerce-#1
+  secret: my-secret-key-1234567890-from-github-repository-ecommerce-#2
   expiration-time: 864000000
 
 gateway:
