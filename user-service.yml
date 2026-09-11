@@ -1,3 +1,10 @@
+token:
+  secret: my-secret-key-1234567890-from-github-repository-ecommerce-#4
+  expiration-time: 864000000
+
+gateway:
+  ip: 10.20.30.40
+
 spring:
   datasource:
     driver-class-name: org.h2.Driver
